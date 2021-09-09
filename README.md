@@ -1,4 +1,4 @@
-# Operations-in-C-
+# Operations-in-C++
 <h2> Beginner Level</h2> 
 Write a C program to act as simple calculator, first it will ask the user to enter the operation ID,
 depending on the operation, the program will ask the user either to enter 1 operand or 2 operands and
